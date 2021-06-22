@@ -16,5 +16,10 @@ namespace Speed_Meter
         {
             InitializeComponent();
         }
+
+        private void About_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

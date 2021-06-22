@@ -29,3 +29,6 @@ C:\Users\rowen\Desktop\sfs\Internet-Speed-Meter\Speed Meter\bin\Debug\Speed Mete
 C:\Users\rowen\Desktop\sfs\Internet-Speed-Meter\Speed Meter\obj\Debug\Speed Meter.exe.manifest
 C:\Users\rowen\Desktop\sfs\Internet-Speed-Meter\Speed Meter\obj\Debug\Speed Meter.application
 C:\Users\rowen\Desktop\sfs\Internet-Speed-Meter\Speed Meter\obj\Debug\Speed Meter.csproj.CopyComplete
+C:\Users\rowen\Desktop\sfs\Internet-Speed-Meter\Speed Meter\obj\Debug\Speed Meter.csprojAssemblyReference.cache
+C:\Users\rowen\Desktop\sfs\Internet-Speed-Meter\Speed Meter\bin\Debug\MetroFramework.dll
+C:\Users\rowen\Desktop\sfs\Internet-Speed-Meter\Speed Meter\bin\Debug\MetroFramework.Fonts.dll

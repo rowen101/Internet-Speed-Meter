@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Speed Meter.exe.manifest" size="6093">
+    <dependentAssembly dependencyType="install" codebase="Speed Meter.exe.manifest" size="7863">
       <assemblyIdentity name="Speed Meter.exe" version="2.3.0.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ymffZRsUJ+pDJLLLn3DomOhPZolOpvP65HWKXSb7evE=</dsig:DigestValue>
+        <dsig:DigestValue>+osT4C3HipOMc5iZsxleyn5nHXesNfXG39EBMFAJ3R4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -67,6 +67,30 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.dll" size="152576">
+      <assemblyIdentity name="MetroFramework" version="1.2.0.3" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uvMm9S05FV1yJGWUf0zGfm6Qz9D4mVTquVlWjpvDQqo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.Fonts.dll" size="672256">
+      <assemblyIdentity name="MetroFramework.Fonts" version="1.2.0.3" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6WAw/dr354QBVn7oJICtde5I01VhmaP4XA7Gae2sLvQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Speed Meter.exe" size="133120">
       <assemblyIdentity name="Speed Meter" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -74,7 +98,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HA4+KzMLvqvszB/sXi6XD+XBubqFJfMXtKto/H17K3I=</dsig:DigestValue>
+        <dsig:DigestValue>3P3Kr0uqE14sOsLQFQ9XWd273x97zE2lsqWPO3lKxv8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,6 +109,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>dHx0JBJ8NnHlGVHEfFIVSiRLANbOSnEV6mF2JlwhVEw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MetroFramework.txt" size="1266">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+yV6adEVlpUIOiH/IdsfqaixKo0MB7DiB/hBOyI4wKw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Speed Meter.exe.config" size="187">

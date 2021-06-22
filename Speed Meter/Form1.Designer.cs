@@ -56,6 +56,7 @@
             // 
             // aGaugeUp
             // 
+            this.aGaugeUp.BackColor = System.Drawing.Color.WhiteSmoke;
             this.aGaugeUp.BaseArcColor = System.Drawing.Color.Gray;
             this.aGaugeUp.BaseArcRadius = 80;
             this.aGaugeUp.BaseArcStart = 135;
@@ -144,6 +145,7 @@
             // 
             // aGaugeDown
             // 
+            this.aGaugeDown.BackColor = System.Drawing.Color.WhiteSmoke;
             this.aGaugeDown.BaseArcColor = System.Drawing.Color.Gray;
             this.aGaugeDown.BaseArcRadius = 80;
             this.aGaugeDown.BaseArcStart = 135;
@@ -264,7 +266,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.ClientSize = new System.Drawing.Size(472, 314);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
